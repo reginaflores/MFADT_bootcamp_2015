@@ -11,4 +11,6 @@
   * Nested loops
   
 ##Homework:
-Experiment with for( ) loops to create three interesting and interactive patterns.
+MIDTERM: 
+
+* Incorporate all you have learned to make a cool project. Be prepared to present in class on Monday.

@@ -8,4 +8,4 @@
 * Work with your students to review any concepts that they need help with
   
 ##Homework:
-Think about your final project and come to class with a few concepts/ideas.
+* Incorporate the feedback from the Midterm crit and continue developing your Midterm.
