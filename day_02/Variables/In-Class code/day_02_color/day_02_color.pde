@@ -22,41 +22,33 @@ void setup() {
   circleColRed = 0;
   circleColor = color(circleColRed,100,200); 
   counter = 0; 
-  }
+}
 
 void draw() { 
    
    
-   // counter = (counter + 1) % 50;
-   // println(counter);
-   // float diffX = abs(mouseX-pMouseX); 
-   // float diffY = abs(mouseY-pMouseY); 
+   counter ++;
+   println("counter is", counter);
+   float diffX = abs(mouseX-pMouseX); 
+   float diffY = abs(mouseY-pMouseY); 
    
-   // float diff = diffX + diffY;
+   float diff = diffX + diffY;
    
+   circleColor = color(circleColRed,diff,diff);
+   fill(circleColor);
    
-   
-   // circleColor = color(circleColRed,diff,diff);
-   // fill(circleColor);
-   
-
    ellipse(300, 300, 200, 200); 
    ellipse(300, 300, 100, 100);
    
+   ellipse(mouseX, mouseY, diff, diff); 
+      
+   circleColRed++;  
    
-   // ellipse(mouseX, mouseY, diff, diff); 
+   stroke(0,50);
+   strokeWeight(diff);
+   line(mouseX, mouseY, pMouseX, pMouseY);
    
-   // constrain(circleColRed, 0, 255);
-   
-   // circleColRed = (circleColRed + 1) % 255;
-   // circleColRed++;  
-   // println(circleColRed);
-   
-   // stroke(0,50);
-   // strokeWeight(diff);
-   // line(mouseX, mouseY, pMouseX, pMouseY);
-   
-   // pMouseX = mouseX;
-   // pMouseY = mouseY; 
+   pMouseX = mouseX;
+   pMouseY = mouseY; 
 
 }

@@ -1,5 +1,5 @@
 # PARSONS THE NEW SCHOOL FOR DESIGN
-# Summer 2014 Bootcamp Code Syllabus
+# Summer 2015 Bootcamp Code Syllabus
 -------------------------------------------------------------------
 
 ## Teachers
@@ -48,17 +48,17 @@ improvement rather than base knowledge.
 
 add links as they become available
 
-* [Day 1](https://github.com/reginaflores/bootcamp_2015/tree/master/day_01)
-* [Day 2](https://github.com/reginaflores/bootcamp_2015/tree/master/day_02)
-* [Day 3](https://github.com/reginaflores/bootcamp_2015/tree/master/day_03)
-* [Day 4](https://github.com/reginaflores/bootcamp_2015/tree/master/day_04)
-* [Day 5](https://github.com/reginaflores/bootcamp_2015/tree/master/day_05)
-* [Day 6](https://github.com/reginaflores/bootcamp_2015/tree/master/day_06)
-* [Day 7](https://github.com/reginaflores/bootcamp_2015/tree/master/day_07)
-* [Day 8](https://github.com/reginaflores/bootcamp_2015/tree/master/day_08)
-* [Day 9](https://github.com/reginaflores/bootcamp_2015/tree/master/day_09)
-* [Day 10](https://github.com/reginaflores/bootcamp_2015/tree/master/day_10)
-* [Day 11](https://github.com/reginaflores/bootcamp_2015/tree/master/day_11)
+* [Day 1](https://github.com/reginaflores/MFADT_bootcamp_2015/tree/master/day_01)
+* [Day 2](https://github.com/reginaflores/MFADT_bootcamp_2015/tree/master/day_02)
+* [Day 3](https://github.com/reginaflores/MFADT_bootcamp_2015/tree/master/day_03)
+* [Day 4](https://github.com/reginaflores/MFADT_bootcamp_2015/tree/master/day_04)
+* [Day 5](https://github.com/reginaflores/MFADT_bootcamp_2015/tree/master/day_05)
+* [Day 6](https://github.com/reginaflores/MFADT_bootcamp_2015/tree/master/day_06)
+* [Day 7](https://github.com/reginaflores/MFADT_bootcamp_2015/tree/master/day_07)
+* [Day 8](https://github.com/reginaflores/MFADT_bootcamp_2015/tree/master/day_08)
+* [Day 9](https://github.com/reginaflores/MFADT_bootcamp_2015/tree/master/day_09)
+* [Day 10](https://github.com/reginaflores/MFADT_bootcamp_2015/tree/master/day_10)
+* [Day 11](https://github.com/reginaflores/MFADT_bootcamp_2015/tree/master/day_11)
 
 Note: Day 12 - 14 will be Workshop days. Day 15 is the Final Presentation Day.
 
